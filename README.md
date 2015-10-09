@@ -10,4 +10,4 @@ The file includes the sections:
 
 - Hierarchy Pattern 1: Single-Level Multi-Table
 
-- Hierarchy Pattern 2: Multi-Level Single-Table Hierarchy
+- Hierarchy Pattern 2: Multi-Level Single-Table
