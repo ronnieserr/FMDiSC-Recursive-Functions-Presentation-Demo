@@ -8,6 +8,6 @@ The file includes the sections:
 
 - Custom Recursive Functions
 
-- Single-Level Multi-Table Hierarchies
+- Hierarchy Pattern 1: Single-Level Multi-Table
 
-- Multi-Level Single-Table Hierarchy
+- Hierarchy Pattern 2: Multi-Level Single-Table Hierarchy
