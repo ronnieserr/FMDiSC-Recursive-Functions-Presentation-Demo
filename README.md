@@ -6,8 +6,8 @@ The file includes the sections:
 
 - Calling Self
 
-- Custom Recursive Functions
+- Recursive Custom Functions
 
-- Hierarchy Pattern 1: Single-Level Multi-Table
+- Tree Data Pattern 1: Single-Level Multi-Table
 
-- Hierarchy Pattern 2: Multi-Level Single-Table
+- Tree Data Pattern 2: Multi-Level Single-Table
